@@ -1,0 +1,78 @@
+{
+    "aliquot": 2986, 
+    "analysis_type": "blank_unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystals", 
+    "commit": "68f1f79024dec8836682e6838a3edddaed7a88b8", 
+    "detectors": {
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "bu-FC-J", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "blank", 
+    "measurement": "", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Irradiation-NM-269", 
+    "sample": "blank_unknown", 
+    "spec_sha": "63bdfa621e4e1990f6b1c8e455b6f6c457aa09ff", 
+    "timestamp": "2014-10-02T17:39:12", 
+    "username": "JLafferty", 
+    "uuid": "5ed749c9-2acd-4542-ae50-8b1801479c22"
+}
